@@ -1,0 +1,17 @@
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Infra.IoC.deps.json
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Infra.IoC.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Infra.IoC.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Application.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Domain.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Infra.Data.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Application.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Infra.Data.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.1\CleanArch.Domain.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.1\CleanArch.Infra.IoC.pdb

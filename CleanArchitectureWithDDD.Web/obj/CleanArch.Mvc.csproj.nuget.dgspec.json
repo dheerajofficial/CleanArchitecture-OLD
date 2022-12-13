@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Application\\CleanArchitectureWithDDD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Application\\CleanArchitectureWithDDD.Application.csproj",
+        "projectName": "CleanArchitectureWithDDD.Application",
+        "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Application\\CleanArchitectureWithDDD.Application.csproj",
+        "packagesPath": "C:\\Users\\dheerajk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheerajk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj",
+        "projectName": "CleanArchitectureWithDDD.Domain",
+        "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\dheerajk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheerajk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj",
+        "projectName": "CleanArchitectureWithDDD.Infra.Data",
+        "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\dheerajk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheerajk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Domain\\CleanArchitectureWithDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "projectName": "CleanArch.Infra.IoC",
+        "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\dheerajk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheerajk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Application\\CleanArchitectureWithDDD.Application.csproj": {
+                "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Application\\CleanArchitectureWithDDD.Application.csproj"
+              },
+              "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+        "projectName": "CleanArch.Mvc",
+        "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+        "packagesPath": "C:\\Users\\dheerajk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dheerajk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.Data\\CleanArchitectureWithDDD.Infra.Data.csproj"
+              },
+              "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\dheerajk\\Downloads\\CleanArchDemo-master\\CleanArchDemo-master\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

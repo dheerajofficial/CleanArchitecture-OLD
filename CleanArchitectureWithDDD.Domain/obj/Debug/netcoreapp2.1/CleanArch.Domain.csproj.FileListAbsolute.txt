@@ -1,0 +1,10 @@
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp2.1\CleanArch.Domain.deps.json
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp2.1\CleanArch.Domain.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp2.1\CleanArch.Domain.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.csproj.AssemblyReference.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.1\CleanArch.Domain.pdb

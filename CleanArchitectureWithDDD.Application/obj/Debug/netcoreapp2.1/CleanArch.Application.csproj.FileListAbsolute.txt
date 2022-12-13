@@ -1,0 +1,13 @@
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.1\CleanArch.Application.deps.json
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.1\CleanArch.Application.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.1\CleanArch.Application.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.1\CleanArch.Domain.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.1\CleanArch.Domain.pdb
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.AssemblyInfo.cs
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.csproj.CopyComplete
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.dll
+C:\Users\dheerajk\Downloads\CleanArchDemo-master\CleanArchDemo-master\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.1\CleanArch.Application.pdb
